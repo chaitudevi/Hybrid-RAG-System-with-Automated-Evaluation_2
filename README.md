@@ -94,8 +94,7 @@ hybrid_rag_system/
 ### Prerequisites
 - Python 3.8+
 - pip or conda
-- 4GB+ RAM (8GB+ recommended for GPU)
-- GPU optional but recommended
+
 
 ### Setup Steps
 
