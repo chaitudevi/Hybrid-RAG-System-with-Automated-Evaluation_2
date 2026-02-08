@@ -404,20 +404,6 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 - Locally cached embeddings and indices
 - Results saved only to local storage
 
-## 📖 References
-
-- Sentence-Transformers: https://www.sbert.net/
-- FAISS: https://github.com/facebookresearch/faiss
-- BM25: https://en.wikipedia.org/wiki/Okapi_BM25
-- RRF: https://plg.uwaterloo.ca/gvcormac/cormackstemmer.html
-
-## 📄 License
-
-This project is provided for educational purposes.
-
-## ✉️ Support
-
-For issues or questions, please refer to the assignment documentation or contact course instructors.
 
 ---
 
