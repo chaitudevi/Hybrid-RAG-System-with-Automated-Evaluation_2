@@ -1,0 +1,11 @@
+{
+  "chunk_size": 300,
+  "chunk_overlap": 50,
+  "dense_model": "all-MiniLM-L6-v2",
+  "dense_top_k": 10,
+  "sparse_top_k": 10,
+  "final_top_n": 5,
+  "llm_model": "distilgpt2",
+  "max_context_tokens": 300,
+  "device": "cpu"
+}
