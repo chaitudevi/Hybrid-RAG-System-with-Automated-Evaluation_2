@@ -38,8 +38,8 @@ env/
 .DS_Store
 
 # Project-specific
-data/corpus/
-data/indices/
+# data/corpus/
+# data/indices/
 data/qa/
 results/
 logs/
@@ -52,7 +52,7 @@ models/
 *.pt
 
 # Large files
-*.pkl
+# *.pkl
 *.pickle
 *.h5
 *.tar.gz
