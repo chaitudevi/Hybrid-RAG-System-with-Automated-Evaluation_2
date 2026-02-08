@@ -397,12 +397,7 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 - RRF uses k=60 as default constant parameter
 - All URLs and metadata are preserved in chunk objects for tracking
 
-## 🔐 Data Privacy
 
-- All data is processed locally
-- No data is sent to external services (except model downloads)
-- Locally cached embeddings and indices
-- Results saved only to local storage
 
 
 ---
